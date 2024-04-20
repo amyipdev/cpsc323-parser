@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Amy Parker <amy@amyip.net>", "Amy Montalvo", "Brandon Dominguez"]
 description = "Parser for Saloni Modi's CPSC 323 (Spring 2024)"
 license = "GPL-2.0-or-later"
+repository = "https://github.com/amyipdev/cpsc323-parser"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
